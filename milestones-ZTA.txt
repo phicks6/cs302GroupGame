@@ -1,12 +1,11 @@
 1. Create organization and assign roles to team
 (30-45 min) 10 points
 2. Create file and start on project
-(30-45 min) 10 points
+(30-45 min) 5 points
 3. Look at 2d tutorials
 (30 min) 5 points
 4. Start work on new sprites
-(30 min) 5 points
-5. Start work on sprite object interaction
 (90 min) 15 points
-
+5. Making a menu for the game
+(90 min) 15
 Drawing or downloading sprites should not take too long. So I am not putting as much emphasis on that, or just watching tutorials. Creating the file will take some time, because I have not used Unity file share before. 
