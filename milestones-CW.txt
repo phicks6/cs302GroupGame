@@ -1,0 +1,4 @@
+1. Complete beginner Unity tutorials necessary to work on game. 2 hours. 15 points
+2. Discuss plans for project with group in lab. 1.5 hours. 10 points
+3. Discuss plans for project as to who will take which parts of project and which responsibilities. 1 hour. 5 points
+4. Begin work on decided part of my project (probably sprites and room design). 1.5 hours. 10 points
