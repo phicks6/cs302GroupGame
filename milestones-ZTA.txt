@@ -1,1 +1,5 @@
 1. Create organization and assign roles to team
+2. Create file and start on project
+3. Look at 2d tutorials
+4. Start work on new sprites
+5. Start work on sprite object interaction
