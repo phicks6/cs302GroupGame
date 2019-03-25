@@ -1,0 +1,4 @@
+1. Link together Unity Colaboration: 5 points
+2. Make basic character that can move: 10 points
+3. Add multiplayer so there can be more than one basic character moving at once: 25 points
+4. Move everything to Public GitHub: 5 points
