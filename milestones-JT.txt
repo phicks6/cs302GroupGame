@@ -1,0 +1,6 @@
+Rubric for Jonathan Ting:
+
+1. 10 points, 3 hours: Get accustomed to using Unity Editor's tools (non-scripting), finish basic tutorial on making a game.
+2. 10 points, 2 hours: Learn how to script in Unity, create a player movement script based off of previous tutorial scripts in C# on a test game.
+3. 10 points, 2 hours: Create a custom script from scratch for top-down movement in our game.
+4. 10 points, 3 hours: Create a custom script from scratch for interacting with objects by a player character in our game.
