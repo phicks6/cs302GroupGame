@@ -1,5 +1,5 @@
-1. Link together Unity Colaboration: 5 points
-2. Refactor my existing code to work with Unity Colaboration: 5 points
-3. Make basic character that can move: 10 points
-4. Add multiplayer so there can be more than one basic character moving at once: 25 points
+1. Link together Unity Colaboration: 5 points (120 mins)
+2. Refactor my existing code to work with Unity Colaboration: 5 points (60 mins)
+3. Make basic character that can move: 10 points (90 mins)
+4. Add multiplayer so there can be more than one basic character moving at once: 25 points (90 mins)
 I have a basic character that can move and two computers can connect to the same client but networking is still unfinished and will need to finished in the next sprint.
