@@ -9,3 +9,4 @@
 5. Making a menu for the game
 (90 min) 15
 Drawing or downloading sprites should not take too long. So I am not putting as much emphasis on that, or just watching tutorials. Creating the file will take some time, because I have not used Unity file share before. 
+The menu was not as easy to implement as I thought it would because of the unity collaborate. 
