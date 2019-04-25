@@ -1,1 +1,32 @@
-
+     Special libraries needed to build/compile if personal machines were used
+     requires unity 
+     
+     
+     Instructions on how to build/compile your program
+     to build/compile our code, you must use unity. Click file on the top left, click build settings, then click build on the bottom left
+     of the new popup
+     
+     
+     User manual with how the controls/interactions work
+     One player will have an xbox controller wired to the computer and will look at one monitor. The other player will have a mouse and 
+     keyboard and looking at a different monitor. The player with the xbox controller is the seeker. He is given a flashlight to look 
+     around the room with. He is also given a gun to shoot the seeker with when he finds him.
+     
+     The hider does not need a flashlight, the room is well lit for the hider. The hider will move with the keyboard and has the ability
+     to turn into any object in the room.
+     
+     The hider and seeker have two different objectives. The hider has two ways to win. The first way to win is to let the timer expire. 
+     The other way to win is to sneak up on the seeker and collide with him. The seeker wins if he manages to shoot the hider. 
+     
+     There are multiple rounds in our game. 
+     
+     The seeker rotates by using the right stick on the controller and shoots with the right trigger. The seeker moves by using the left
+     stick.
+     
+     The hider moves with W,A,S,D. When the hider clicks on an object, he becomes that object.
+     
+     
+     Known bugs. If you document what you know is wrong, and these are minor issues, we will not take off for them. Examples include weird behavior, image mismatches, other last minute issues. If you document more serious issues (seg faults on conclusion, program crashing, etc.) we will give more partial credit.
+     Any other information that will inform the instructor and TAs for final grading. If there is special equipment, e.g., NES controllers or a special library, we’ll make an appointment for the demo during exam week
+     
+     Requires two monitors, and an xbox controller with a cable to connect it to the pc. 
