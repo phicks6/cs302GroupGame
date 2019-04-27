@@ -23,7 +23,8 @@
      The seeker rotates by using the right stick on the controller and shoots with the right trigger. The seeker moves by using the left
      stick.
      
-     The hider moves with W,A,S,D. When the hider clicks on an object, he becomes that object.
+     The hider moves with W,A,S,D. When the hider hovers over an object and presses E, he becomes that object. By pressing R he reverts back 
+     into his orignal form.
      
      
      Known bugs. If you document what you know is wrong, and these are minor issues, we will not take off for them. Examples include weird behavior, image mismatches, other last minute issues. If you document more serious issues (seg faults on conclusion, program crashing, etc.) we will give more partial credit.
