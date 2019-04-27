@@ -30,4 +30,6 @@
      Known bugs. If you document what you know is wrong, and these are minor issues, we will not take off for them. Examples include weird behavior, image mismatches, other last minute issues. If you document more serious issues (seg faults on conclusion, program crashing, etc.) we will give more partial credit.
      Any other information that will inform the instructor and TAs for final grading. If there is special equipment, e.g., NES controllers or a special library, we’ll make an appointment for the demo during exam week
      
+     When kirby transforms into another object he also takes that objects colider box. The colider boxes of the environment aren't very accurate and this causes kirby to not be able to move into some areas even though it looks like he can.
      Requires two monitors, and an xbox controller with a cable to connect it to the pc. 
+     To test the networking demo of the project, to computers on the same network are needed. One should open the game and click network demo, and then in the top left click LAN Host. The other computer should repeat the steps but then replace the localhost with ip address of the first computer and click LAN Client
