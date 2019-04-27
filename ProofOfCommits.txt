@@ -1,0 +1,3 @@
+Instead of github as our primary repository we used something called Unity Collab. ProofOfCommits.png is a picture or all our commits. 
+Jonhathan  looks like he has no commits but this is because Unity Collab only allowed 3 people. Jonhathan was signed in under Zach's 
+account so his commits show up as Zach's.
