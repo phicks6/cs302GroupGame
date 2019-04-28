@@ -1,3 +1,21 @@
 Instead of github as our primary repository we used something called Unity Collab. ProofOfCommits.png is a picture or all our commits. 
-Jonhathan  looks like he has no commits but this is because Unity Collab only allowed 3 people. Jonhathan was signed in under Zach's 
+Jonathan looks like he has no commits but this is because Unity Collab only allowed 3 people. Jonathan was signed in under Zach's 
 account so his commits show up as Zach's.
+
+List of Jonathan's Commits (see other image):
+25 days ago: "Added Character Controller and Player Movement script."
+11 days ago: "Added Raycasting System"
+4 days ago: "Added Kenney Top Down Tiles"
+4 days ago: "New map and fixed raycast jank"
+4 days ago: "Light shenanigans"
+4 days ago: "Improved Lighting"
+3 days ago: "Build error fixed"
+3 days ago: "Hider and Seeker prefabs, other fixes"
+3 days ago: "STUFF"
+3 days ago: "Guns n' Hider n' Seeker scripts"
+2 days ago: "Randomly loads each scene"
+2 days ago: "Included the game controller and all of the scene stuff to each scene"
+a day ago: "Demo Build - Jonathan Ting"
+17 hours ago: "Squashed remaining bugs, including time-out immediately ending game, timer not resetting between rounds, and "Hider Wins" text not displaying. Rewrote GameController and Timer scripts to be simpler, more efficient, and better organized. - Jonathan Ting"
+an hour ago: "Commented code. - Jonathan Ting"
+28 minutes ago: "More comments."
